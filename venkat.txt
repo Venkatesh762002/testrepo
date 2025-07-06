@@ -1,0 +1,3 @@
+hello flask 
+now i need to go mongodb server 
+and then 
